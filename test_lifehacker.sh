@@ -1,0 +1,1 @@
+python web_crawler.py https://lifehacker.ru/ 2
